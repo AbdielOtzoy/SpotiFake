@@ -1,0 +1,4 @@
+{
+  // usar iconos de nestjs en vez de angular
+  "material-icon-theme.activeIconPack": "nest",
+}
